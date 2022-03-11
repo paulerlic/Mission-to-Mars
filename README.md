@@ -17,18 +17,13 @@ The purpose of this project is to help Robin add more polish to her web app. Rob
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<details><summary>EVIDENCE OF LIFE ON MARS</summary>
+<p>
 
 The web scraping app also found evidence of life on mars please see below: 
 
 ![Life on Mars!!](https://raw.githubusercontent.com/paulerlic/Mission-to-Mars/main/imgs/oddscrapingresult.png)
+</p>
+</details>
+
+
